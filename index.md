@@ -14,10 +14,11 @@ Andre Heughebaert
 - [JunIBIS.be](http://www.junibis.be)
 
 ## See also
-- [Spearker Deck](https://speakerdeck.com/andrejjh)
 - [GitHub](https://github.com/andrejjh)
-- ResearchGate
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-heughebaert-a888a41/)
+- [OrcID](http://orcid.org/0000-0002-7839-5300)
+- [ResearchGate](https://www.researchgate.net/profile/Andre_Heughebaert)
+- [Speaker Deck](https://speakerdeck.com/andrejjh)
 
 ## Contact me
 [andrejjh@gmail.com](mailto:andrejjh@gmail.com)
