@@ -1,4 +1,6 @@
 ## Welcome to my GitHub Pages
+![me](images/andrejjh.png)
+
 Hi,
 
 My current job is IT Software Engineer at Belgian Biodiversity Platform.
