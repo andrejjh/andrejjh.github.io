@@ -23,9 +23,11 @@ Andre Heughebaert
 ## My profiles
 - [GitHub](https://github.com/andrejjh)
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-heughebaert-a888a41/)
+- [OpenScienceFramework](https://osf.io/k7w78/)
 - [OrcID](http://orcid.org/0000-0002-7839-5300)
 - [ResearchGate](https://www.researchgate.net/profile/Andre_Heughebaert)
 - [Speaker Deck](https://speakerdeck.com/andrejjh)
 
 ## Contact me
-[andrejjh@gmail.com](mailto:andrejjh@gmail.com)
+- eMail: [andrejjh@gmail.com](mailto:andrejjh@gmail.com)
+- Skype: andrejjh
