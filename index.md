@@ -28,6 +28,17 @@ Andre Heughebaert
 - [ResearchGate](https://www.researchgate.net/profile/Andre_Heughebaert)
 - [Speaker Deck](https://speakerdeck.com/andrejjh)
 
+## Daily tools
+- Editor: [Atom](https://atom.io/)
+- Database: [PostgreSQL](https://www.postgresql.org), [SQLite](https://www.sqlite.org/)
+- Data Cleaning: [OpenRefine](http://openrefine.org/)
+- Data Publication: [IPT](http://www.gbif.org/ipt)
+- Data Visualization: [Carto](https://carto.com/),[RawGraphs](http://rawgraphs.io/)
+- GIS: [QGIS](http://www.qgis.org/)
+- Slides: [Reveal.js](http://lab.hakim.se/reveal-js)
+- Spreadsheet: [LibreOffice](https://www.libreoffice.org/)
+- Version control: [Git](https://git-scm.com/)
+
 ## Contact me
 - eMail: [andrejjh@gmail.com](mailto:andrejjh@gmail.com)
 - Skype: andrejjh
