@@ -15,10 +15,13 @@ Before that, I've been working in Banking systems, Digital TV and e-Learning.
 
 Andre Heughebaert
 
-## Works
+## Current job since 2005
 - [Belgian Biodiverity Platform](http://www.biodiversity.be)
 - [Global Biodiversity Information Facility](http://www.gbif.org)
-- [JunIBIS.be](http://www.junibis.be) (as hobby)
+
+## Also
+- [JunIBIS.be](http://www.junibis.be) (as hobby, Cartography website on 1815 Campaign of Belgium)
+- [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (2006 study in french)
 
 ## My profiles
 - [GitHub](https://github.com/andrejjh)
@@ -33,7 +36,7 @@ Andre Heughebaert
 - Database: [PostgreSQL](https://www.postgresql.org), [SQLite](https://www.sqlite.org/)
 - Data Cleaning: [OpenRefine](http://openrefine.org/)
 - Data Publication: [IPT](http://www.gbif.org/ipt)
-- Data Visualization: [Carto](https://carto.com/),[RawGraphs](http://rawgraphs.io/)
+- Data Visualization: [Carto](https://carto.com/), [RawGraphs](http://rawgraphs.io/)
 - GIS: [QGIS](http://www.qgis.org/)
 - Slides: [Reveal.js](http://lab.hakim.se/reveal-js)
 - Spreadsheet: [LibreOffice](https://www.libreoffice.org/)
