@@ -15,11 +15,19 @@ Before that, I've been working in Banking systems, Digital TV and e-Learning.
 
 Andre Heughebaert
 
-## Current job since 2005
+## Current job
 - [Belgian Biodiverity Platform](http://www.biodiversity.be)
 - [Global Biodiversity Information Facility](http://www.gbif.org)
 
-## Also
+## Some recent projects
+- [Belgian Data Portal](http://data.biodiversity.be/)
+- [Bio-GR](http://www.bio-gr.eu/)
+- [Saproxylic Beetles](http://projects.biodiversity.be/beetles)
+- [Formicidae Atlas](http://www.formicidae-atlas.be/)
+- [BiodivERsA CRIS](http://www.biodiversa.org/database/)
+- [Encounter Bay](http://www.gbif.org/project/2015-ala-internationalization)
+
+## Aside projects
 - [JunIBIS.be](http://www.junibis.be) (as hobby, Cartography website on 1815 Campaign of Belgium)
 - [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (2006 study in french)
 
