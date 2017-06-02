@@ -1,27 +1,28 @@
-## Andre Heughebaert's resume
+# André Heughebaert's resume
 ![me](images/andrejjh.png)
+>Hi there!
 
-Hi there!
+>With 30+ years experience in Software Development (mostly Database, OpenData, GIS and web apps), I 've seen a wide variety of technologies, programming languages and paradigm changes.
 
-With 30+ years experience in Software Development (mostly Database, OpenData, GIS and web apps), I 've seen a wide variety of technologies, programming languages and paradigm changes.
+>My current job is IT Software Engineer at Belgian Biodiversity Platform and Belgian GBIF Node manager.
 
-My educational background is:
-- *Civil Engineer* in Electro-mechanics & Computer Sciences at the [Polytechnic School of ULB](http://www.ulb.ac.be/facs/polytech/), Université Libre de Bruxelles 1983
-- *Master in Environmental Management* at [IGEAT](http://igeat.ulb.ac.be/), ULB 2006
+>Before that, I've been working in *Banking systems*(CIG-Intersys), *Digital TV*(Sony Electronics) and *e-Learning platform*(Université Libre de Bruxelles).
 
-My current job is IT Software Engineer at Belgian Biodiversity Platform and Belgian GBIF Node manager.
+>Last but certainly not least, I'm the proud father of four children.
 
-Before that, I've been working in *Banking systems*(CIG-Intersys), *Digital TV*(Sony Electronics) and *e-Learning platform*(ULB).
+>André Heughebaert
 
-Last but certainly not least, I'm proud father of four children.
+---
+## Educational background
+- **Civil Engineer** in Electro-mechanics & Computer Sciences at the [Polytechnic School of ULB](http://www.ulb.ac.be/facs/polytech/), ULB 1983
+- **Master in Environmental Management** at [IGEAT](http://igeat.ulb.ac.be/), ULB 2006
 
-Andre Heughebaert
 
 ## Current job
 - Head of IT team & Node Manager at [Belgian Biodiverity Platform](http://www.biodiversity.be)
 - Nodes Committee Chair at [Global Biodiversity Information Facility](http://www.gbif.org)
 
-## Major projects
+## Some projects
 - [Belgian Data Portal](http://data.biodiversity.be/)
 - [Bio-GR](http://www.bio-gr.eu/)
 - [Saproxylic Beetles](http://projects.biodiversity.be/beetles)
@@ -33,6 +34,13 @@ Andre Heughebaert
 ## Aside projects
 - [JunIBIS.be](http://www.junibis.be) (as hobby, Cartography website on 1815 Campaign of Belgium)
 - [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (Study in french)
+
+## Languages
+- Mother tongue: French
+- Fluent: English
+- Basic: Dutch, Spanish
+
+---
 
 ## Profiles
 - [GitHub](https://github.com/andrejjh)
@@ -53,11 +61,9 @@ Andre Heughebaert
 - Text Editor: [Atom](https://atom.io/)
 - Version Control: [Git](https://git-scm.com/)
 
+---
+
 ## Contact me
 - eMail: [professional](mailto:a.heughebaert@biodiversity.be), [private](mailto:andrejjh@gmail.com)
 - SkypeID: andrejjh
 
-## Languages
-- Mother tongue: French
-- Fluent: English
-- Basic: Dutch, Spanish
