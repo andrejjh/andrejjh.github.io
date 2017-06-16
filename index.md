@@ -22,7 +22,8 @@
 - Head of IT team & Node Manager at [Belgian Biodiverity Platform](http://www.biodiversity.be)
 - Nodes Committee Chair at [Global Biodiversity Information Facility](http://www.gbif.org)
 
-## Some projects
+## Major Projects
+- [TrIAS](https://osf.io/7dpgr/)
 - [Belgian Data Portal](http://data.biodiversity.be/)
 - [Bio-GR](http://www.bio-gr.eu/)
 - [Saproxylic Beetles](http://projects.biodiversity.be/beetles)
@@ -31,9 +32,9 @@
 - [BiodivERsA CRIS](http://www.biodiversa.org/database/)
 - [Encounter Bay](http://www.gbif.org/project/2015-ala-internationalization)
 
-## Aside projects
-- [JunIBIS.be](http://www.junibis.be) (as hobby, Cartography website on 1815 Campaign of Belgium)
-- [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (Study in french)
+## Personal projects
+- [JunIBIS.be](http://www.junibis.be) (2015) as hobby, Cartography website on 1815 Campaign of Belgium
+- [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (2006) Study in french
 
 ## Languages
 - Mother tongue: French
@@ -66,4 +67,3 @@
 ## Contact me
 - eMail: [professional](mailto:a.heughebaert@biodiversity.be), [private](mailto:andrejjh@gmail.com)
 - SkypeID: andrejjh
-
