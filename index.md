@@ -65,5 +65,6 @@
 ---
 
 ## Contact me
-- eMail: [professional](mailto:a.heughebaert@biodiversity.be), [private](mailto:andrejjh@gmail.com)
-- SkypeID: andrejjh
+- by eMail: [professional](mailto:a.heughebaert@biodiversity.be), [private](mailto:andrejjh@gmail.com)
+- on Skype: andrejjh
+- on Twitter: [Andre_jjH](https://twitter.com/Andre_jjH)
