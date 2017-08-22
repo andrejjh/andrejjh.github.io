@@ -63,8 +63,8 @@
 - Version Control: [Git](https://git-scm.com/)
 
 ---
-
 ## Contact me
-- :email: [professional](mailto:a.heughebaert@biodiversity.be), [private](mailto:andrejjh@gmail.com)
+- professional email <a.heughebaert@biodiversity.be>
+- private email <andrejjh@gmail.com>
 - andrejjh on Skype
 - [Andre_jjH](https://twitter.com/Andre_jjH) on Twitter
