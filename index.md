@@ -64,7 +64,7 @@
 
 ---
 ## Contact me
-- professional email <a.heughebaert@biodiversity.be>
-- private email <andrejjh@gmail.com>
-- andrejjh on Skype
-- [Andre_jjH](https://twitter.com/Andre_jjH) on Twitter
+- professional: <a.heughebaert@biodiversity.be>
+- private: <andrejjh@gmail.com>
+- Skype: andrejjh
+- Twitter: [Andre_jjH](https://twitter.com/Andre_jjH)
