@@ -24,6 +24,7 @@
 
 ## Major Projects
 - [TrIAS](https://osf.io/7dpgr/)
+- [Bireme](https://osf.io/ae4nq/)
 - [Belgian Data Portal](http://data.biodiversity.be/)
 - [Bio-GR](http://www.bio-gr.eu/)
 - [Saproxylic Beetles](http://projects.biodiversity.be/beetles)
