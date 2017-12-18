@@ -37,6 +37,13 @@
 - [JunIBIS.be](http://www.junibis.be) (2015) as hobby, Cartography website on 1815 Campaign of Belgium
 - [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (2006) Study in french
 
+## Early Projects
+- eLearning Authoring System at ULB, acquired by Control Data as **Micro Authoring System**, 1980
+- **OPTIMUS** at CIG, middleware on Stratus VOS (UNIX dialect), 1986
+- **DIDO**, Candidates evaluation platform at CSC, for the Belgian Recruitment Service, 1992
+- **WALK**, Code Generator at Sony Europe, for IVS Video Streaming system, 1998
+- Linux based, **DVB** compliant video streamer at Sony Europe, 2002
+
 ## Languages
 - Mother tongue: French
 - Fluent: English
