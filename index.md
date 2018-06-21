@@ -52,6 +52,7 @@
 ---
 
 ## Profiles
+- [DataHub](https://datahub.io/andrejjh)
 - [GitHub](https://github.com/andrejjh)
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-heughebaert-a888a41/)
 - [OpenScienceFramework](https://osf.io/k7w78/)
@@ -60,18 +61,18 @@
 - [SpeakerDeck](https://speakerdeck.com/andrejjh)
 
 ## Daily tools
-- Biodiversity Data Publication: [IPT](http://www.gbif.org/ipt)
-- Database: [PostgreSQL](https://www.postgresql.org), [SQLite](https://www.sqlite.org/)
+- Data Publication: [IPT](http://www.gbif.org/ipt) and [DarwinCore](http://rs.tdwg.org/dwc/)
+- Relational Database: [PostgreSQL](https://www.postgresql.org), [SQLite](https://www.sqlite.org/)
 - Data Cleaning: [OpenRefine](http://openrefine.org/)
-- Data Visualization: [Carto](https://carto.com/), [RawGraphs](http://rawgraphs.io/)
-- GIS: [QGIS](http://www.qgis.org/)
+- Data Visualisation: [Carto](https://carto.com/), [RawGraphs](http://rawgraphs.io/)
+- GIS: [QGIS](http://www.qgis.org/) and [Leaflet](https://leafletjs.com/)
 - Presentation: [Reveal.js](http://lab.hakim.se/reveal-js)
 - Spreadsheet: [LibreOffice](https://www.libreoffice.org/)
 - Text Editor: [Atom](https://atom.io/)
 - Version Control: [Git](https://git-scm.com/)
 
 ---
-## Contact me
+## How to contact me?
 - professional: <a.heughebaert@biodiversity.be>
 - private: <andrejjh@gmail.com>
 - Skype: andrejjh
