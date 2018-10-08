@@ -41,7 +41,7 @@
 - eLearning Authoring System at ULB, acquired by Control Data as **Micro Authoring System**, 1980
 - **OPTIMUS** at CIG, middleware on Stratus VOS (UNIX dialect), 1986
 - **DIDO**, Candidates evaluation platform at CSC, for the Belgian Recruitment Service, 1992
-- **WALK**, Code Generator at Sony Europe, for IVS Video Streaming system, 1998
+- **WalkEngine**, Code Generator at Sony Europe, 1996 see [github](https://github.com/andrejjh/WalkEngine)
 - Linux based, **DVB** compliant video streamer at Sony Europe, 2002
 
 ## Languages
@@ -55,7 +55,6 @@
 - [DataHub](https://datahub.io/andrejjh)
 - [GitHub](https://github.com/andrejjh)
 - [iNaturalist](https://www.inaturalist.org/people/andrejjh)
-
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-heughebaert-a888a41/)
 - [OpenScienceFramework](https://osf.io/k7w78/)
 - [OrcID](http://orcid.org/0000-0002-7839-5300)
