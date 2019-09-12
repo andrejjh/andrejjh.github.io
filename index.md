@@ -21,6 +21,7 @@
 ## Current job
 - Head of IT team & Node Manager at [Belgian Biodiverity Platform](http://www.biodiversity.be)
 - Nodes Committee Chair at [Global Biodiversity Information Facility](http://www.gbif.org)
+- Beligan representative to [EOSC FAIR Working Group](https://www.eoscsecretariat.eu/working-groups/fair-working-group)
 
 ## Major Projects
 - [TrIAS](https://osf.io/7dpgr/)
@@ -34,10 +35,11 @@
 - [Encounter Bay](http://www.gbif.org/project/2015-ala-internationalization)
 
 ## Personal projects
-- [JunIBIS.be](http://www.junibis.be) (2015) as hobby, Cartography website on 1815 Campaign of Belgium
+- [Frictionless Darwin Core](https://github.com/frictionlessdata/FrictionlessDarwinCore), a tool converting Darwin Core Archive into Frictionless Data Package. This project is funded under [Frictionless Data Tool Fund](https://toolfund.frictionlessdata.io/).
+- [JunIBIS.be](http://www.junibis.be) (2015) as hobby, Cartography website of 1815 Napoleon Campaign of Belgium
 - [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (2006) Study in french
 
-## Early Projects
+## Past Projects
 - eLearning Authoring System at ULB, acquired by Control Data as **Micro Authoring System**, 1980
 - **OPTIMUS** at CIG, middleware on Stratus VOS (UNIX dialect), 1986
 - **DIDO**, Candidates evaluation platform at CSC, for the Belgian Recruitment Service, 1992
@@ -64,8 +66,9 @@
 ## Daily tools
 - Data Publication: [IPT](http://www.gbif.org/ipt) and [DarwinCore](http://rs.tdwg.org/dwc/)
 - Relational Database: [PostgreSQL](https://www.postgresql.org), [SQLite](https://www.sqlite.org/)
-- Data Cleaning: [OpenRefine](http://openrefine.org/)
+- Data Cleaning: [OpenRefine](http://openrefine.org/), [Frictionless Data](https://frictionlessdata.io/)
 - Data Visualisation: [Carto](https://carto.com/), [RawGraphs](http://rawgraphs.io/)
+- Programming Languages: Python, Ruby, Go...
 - GIS: [QGIS](http://www.qgis.org/) and [Leaflet](https://leafletjs.com/)
 - Presentation: [Reveal.js](http://lab.hakim.se/reveal-js)
 - Spreadsheet: [LibreOffice](https://www.libreoffice.org/)
