@@ -21,25 +21,28 @@
 ## Current job
 - Head of IT team & Node Manager at [Belgian Biodiverity Platform](http://www.biodiversity.be)
 - Nodes Committee Chair at [Global Biodiversity Information Facility](http://www.gbif.org)
-- Beligan representative to [EOSC FAIR Working Group](https://www.eoscsecretariat.eu/working-groups/fair-working-group)
+- Member of the [EOSC FAIR Working Group](https://www.eoscsecretariat.eu/working-groups/fair-working-group)
 
-## Major Projects
+## Platform projects
 - [TrIAS](https://osf.io/7dpgr/)
-- [Bireme](https://osf.io/ae4nq/)
 - [Belgian Data Portal](http://data.biodiversity.be/)
 - [Bio-GR](http://www.bio-gr.eu/)
 - [Saproxylic Beetles](http://projects.biodiversity.be/beetles)
 - [Formicidae Atlas](http://www.formicidae-atlas.be/)
 - [Afromoths](http://www.afromoths.net/)
 - [BiodivERsA CRIS](http://www.biodiversa.org/database/)
-- [Encounter Bay](http://www.gbif.org/project/2015-ala-internationalization)
+
+## GBIF Capacity Enhancement projects
+- 2015 [Internalization of the ALA node portal](https://www.gbif.org/project/82202/internationalization-of-the-ala-node-portal)
+- 2016 [Strengthening GBIF Philippines](https://www.gbif.org/project/82652/strengthening-gbif-philippines)
+- 2017 [European Bireme: EU Nodes in biodiversity reporting mechanisms](https://www.gbif.org/project/83336/european-bireme-eu-nodes-in-biodiversity-reporting-mechanisms)
 
 ## Personal projects
 - [Frictionless Darwin Core](https://github.com/frictionlessdata/FrictionlessDarwinCore), a tool converting Darwin Core Archive into Frictionless Data Package. This project is funded under [Frictionless Data Tool Fund](https://toolfund.frictionlessdata.io/).
 - [JunIBIS.be](http://www.junibis.be) (2015) as hobby, Cartography website of 1815 Napoleon Campaign of Belgium
 - [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (2006) Study in french
 
-## Past Projects
+## Earlier Projects
 - eLearning Authoring System at ULB, acquired by Control Data as **Micro Authoring System**, 1980
 - **OPTIMUS** at CIG, middleware on Stratus VOS (UNIX dialect), 1986
 - **DIDO**, Candidates evaluation platform at CSC, for the Belgian Recruitment Service, 1992
@@ -53,7 +56,7 @@
 
 ---
 
-## Profiles
+## My profiles
 - [DataHub](https://datahub.io/andrejjh)
 - [GitHub](https://github.com/andrejjh)
 - [iNaturalist](https://www.inaturalist.org/people/andrejjh)
