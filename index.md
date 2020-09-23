@@ -2,13 +2,13 @@
 ![me](images/andrejjh.png)
 >Hi there!
 
->With 30+ years experience in Software Development (mostly Database, OpenData, GIS and web apps), I 've seen a wide variety of technologies, programming languages and paradigm changes.
+>With 35+ years experience in Software Development (mostly Database, OpenData, GIS and web apps), I 've seen a wide variety of technologies, programming languages and paradigm changes.
 
 >My current job is IT Software Engineer at Belgian Biodiversity Platform and Belgian GBIF Node manager.
 
 >Before that, I've been working in *Banking systems*(CIG-Intersys), *Digital TV*(Sony Electronics) and *e-Learning platform*(Université Libre de Bruxelles).
 
->Last but certainly not least, I'm the proud father of four children.
+>Last but certainly not least, I'm the proud father of four children and very recently grandfather.
 
 >André Heughebaert
 
@@ -67,20 +67,22 @@
 - [SpeakerDeck](https://speakerdeck.com/andrejjh)
 
 ## Daily tools
-- Data Publication: [IPT](http://www.gbif.org/ipt) and [DarwinCore](http://rs.tdwg.org/dwc/)
+- Data Publication: [IPT](http://www.gbif.org/ipt), [DarwinCore](http://rs.tdwg.org/dwc/) and [BioCASe](https://www.biocase.org/)
 - Relational Database: [PostgreSQL](https://www.postgresql.org), [SQLite](https://www.sqlite.org/)
-- Data Cleaning: [OpenRefine](http://openrefine.org/), [Frictionless Data](https://frictionlessdata.io/)
-- Data Visualisation: [Carto](https://carto.com/), [RawGraphs](http://rawgraphs.io/)
-- Programming Languages: Python, Ruby, Go...
+- Data Cleaning: [Open Refine](http://openrefine.org/), [Frictionless Data](https://frictionlessdata.io/)
+- Data Visualisation: [Carto](https://carto.com/), [Raw Graphs](http://rawgraphs.io/)
+- Programming: [Python](https://www.python.org/), [Django](https://www.djangoproject.com/),[Pandas](https://pandas.pydata.org/), [Jupyter](https://jupyter.org/)
 - GIS: [QGIS](http://www.qgis.org/) and [Leaflet](https://leafletjs.com/)
 - Presentation: [Reveal.js](http://lab.hakim.se/reveal-js)
 - Spreadsheet: [LibreOffice](https://www.libreoffice.org/)
 - Text Editor: [Atom](https://atom.io/)
 - Version Control: [Git](https://git-scm.com/)
-
+- Browser: [Brave](https://brave.com/)
 ---
+
 ## How to contact me?
 - professional: <a.heughebaert@biodiversity.be>
 - private: <andrejjh@gmail.com>
 - Skype: andrejjh
 - Twitter: [Andre_jjH](https://twitter.com/Andre_jjH)
+- FACEBOOK, INSTAGRAM: NO!
