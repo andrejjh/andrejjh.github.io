@@ -78,6 +78,7 @@
 - Text Editor: [Atom](https://atom.io/)
 - Version Control: [Git](https://git-scm.com/)
 - Browser: [Brave](https://brave.com/)
+
 ---
 
 ## How to contact me?
@@ -85,4 +86,4 @@
 - private: <andrejjh@gmail.com>
 - Skype: andrejjh
 - Twitter: [Andre_jjH](https://twitter.com/Andre_jjH)
-- FACEBOOK, INSTAGRAM: NO!
+- Facebook, Instagram, Messenger, WhatsApp: over my dead body!
