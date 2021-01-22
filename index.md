@@ -38,7 +38,7 @@
 - 2017 [European Bireme: EU Nodes in biodiversity reporting mechanisms](https://www.gbif.org/project/83336/european-bireme-eu-nodes-in-biodiversity-reporting-mechanisms)
 
 ## Personal and Funny projects
-- [Terminology of the Imperium](./duneToI.md) (2021), tribute to Frank Herbert for his **Dune** Science Fiction masterpiece.
+- [Terminology of the Imperium](./duneToI.md) (2021), small markdown tribute to [**Frank Herbert's Dune**](https://en.wikipedia.org/wiki/Dune_%28novel%29).
 - [Frictionless Darwin Core](https://github.com/frictionlessdata/FrictionlessDarwinCore), a tool converting Darwin Core Archive into Frictionless Data Package. This project is funded under [Frictionless Data Tool Fund](https://toolfund.frictionlessdata.io/).
 - [JunIBIS.be](http://www.junibis.be) (2015) as hobby, Cartography website of 1815 Napoleon Campaign of Belgium.
 - [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (2006) Study in french.

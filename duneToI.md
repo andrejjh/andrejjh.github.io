@@ -310,7 +310,7 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 : the horned goddess, the feminine principle of space (commonly: Mother Space), the feminine face of the male-female-neuter trinity accepted as Supreme Being by many religions within the Imperium.
 
 <a id="GREAT_REVOLT"></a>GREAT REVOLT
-: common term for the Butlerian Jihad. (See [Jihad, Butlerian](#JIHAD, BUTLERIAN).)
+: common term for the Butlerian Jihad. (See [Jihad, Butlerian](#JIHAD,_BUTLERIAN).)
 
 <a id="GRIDEX_PLANE"></a>GRIDEX PLANE
 : a differential-charge separator used to remove sand from the melange spice mass; a device of the second stage in spice refining.
