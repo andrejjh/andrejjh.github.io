@@ -37,11 +37,11 @@
 - 2016 [Strengthening GBIF Philippines](https://www.gbif.org/project/82652/strengthening-gbif-philippines)
 - 2017 [European Bireme: EU Nodes in biodiversity reporting mechanisms](https://www.gbif.org/project/83336/european-bireme-eu-nodes-in-biodiversity-reporting-mechanisms)
 
-## Personal projects
+## Personal and Funny projects
+- [Terminology of the Imperium](./duneToI.md) (2021), tribute to Frank Herbert for his **Dune** Science Fiction masterpiece.
 - [Frictionless Darwin Core](https://github.com/frictionlessdata/FrictionlessDarwinCore), a tool converting Darwin Core Archive into Frictionless Data Package. This project is funded under [Frictionless Data Tool Fund](https://toolfund.frictionlessdata.io/).
-- [JunIBIS.be](http://www.junibis.be) (2015) as hobby, Cartography website of 1815 Napoleon Campaign of Belgium
-- [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (2006) Study in french
-- [Terminology of the Imperium](./duneToI.md), excerpt from Frank Herbert **Dune** masterpiece
+- [JunIBIS.be](http://www.junibis.be) (2015) as hobby, Cartography website of 1815 Napoleon Campaign of Belgium.
+- [CO2 voluntary compensation market](http://dev.ulb.ac.be/ceese/ABC_Impacts/documents_abc/Heughebaert_report_compensation.pdf) (2006) Study in french.
 
 ## Earlier Projects
 - eLearning Authoring System at ULB, acquired by Control Data as **Micro Authoring System**, 1980
