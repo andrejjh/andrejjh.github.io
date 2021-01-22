@@ -18,7 +18,7 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="AKARSO"></a>AKARSO
 : a plant native to Sikun (of 70 Ophiuchi A) characterized by almost oblong leaves. Its green and white stripes indicate the constant multiple condition of parallel active and dormant chlorophyll regions.
 
-</a>ALAM_AL-MITHAL"></a>ALAM AL-MITHAL
+<a id="ALAM_AL-MITHAL"></a>ALAM AL-MITHAL
 : the mystical world of similitudes where all physical limitations are removed.
 
 <a id="AL-LAT"></a>AL-LAT
