@@ -460,7 +460,7 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 : Fremen liban is spice water infused with yucca flour. Originally a sour milk drink.
 
 <a id="LISAN_AL-GAIB"></a>LISAN AL-GAIB
-: “The Voice from the Outer World.” In Fremen messianic legends, an off-world prophet. Sometimes translated as “Giver of Water.” (See [Mahdi](#MADHI).)
+: “The Voice from the Outer World.” In Fremen messianic legends, an off-world prophet. Sometimes translated as “Giver of Water.” (See [Mahdi](#MAHDI).)
 
 <a id="LITERJON"></a>LITERJON
 : a one-liter container for transporting water on Arrakis; made of high-density, shatterproof plastic with positive seal.
@@ -490,7 +490,7 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 : spring-loaded gun for firing poison darts; range about forty meters.
 
 <a id="MELANGE"></a>MELANGE
-: the “spice of spices,” the crop for which Arrakis is the unique source. The spice, chiefly noted for its geriatric qualities, is mildly addictive when taken in small quantities, severely addictive when imbibed in quantities above two grams daily per seventy kilos of body weight. (See [Ibad](#IBAD), [Water of Life](#WATER_OF_LIFE), and [Pre-spice Mass](#PRE-SPICE_MASS).) Muad’Dib claimed the spice as a key to his prophetic powers. Guild navigators make similar claims. Its price on the Imperial market has ranged as high as 620,000 solaris the decagram.
+: the “spice of spices,” the crop for which Arrakis is the unique source. The spice, chiefly noted for its geriatric qualities, is mildly addictive when taken in small quantities, severely addictive when imbibed in quantities above two grams daily per seventy kilos of body weight. (See [Ibad](#IBAD,_EYES_OF), [Water of Life](#WATER_OF_LIFE), and [Pre-spice Mass](#PRE-SPICE_MASS).) Muad’Dib claimed the spice as a key to his prophetic powers. Guild navigators make similar claims. Its price on the Imperial market has ranged as high as 620,000 solaris the decagram.
 
 <a id="MENTAT"></a>MENTAT
 : that class of Imperial citizens trained for supreme accomplishments of logic. “Human computers.”
@@ -760,7 +760,7 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 : water-seller’s cry on Arrakis. Sook is a market place. (See [Ikhut-eigh!](#IKHUT-EIGH!))
 
 <a id="SPACING_GUILD"></a>SPACING GUILD
-: see [Guild](#GUID).
+: see [Guild](#GUILD).
 
 <a id="SPICE"></a>SPICE
 : see [Melange](#MELANGE).
