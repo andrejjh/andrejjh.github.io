@@ -4,7 +4,9 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 (Excerpt from Frank Herbert “Dune”)
 
----
+Index: [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) X [Y](#Y) [Z](#Z)
+
+---<a id="A"></a>
 
 <a id="ABA"></a>ABA
 : loose robe worn by Fremen women; usually black.
@@ -50,6 +52,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="AYAT"></a>AYAT
 : the signs of life. (See [Burhan](#BURHAN))
+
+---<a id="B"></a>
 
 <a id="BAKKA"></a>BAKKA
 : in Fremen legend, the weeper who mourns for all mankind.
@@ -111,6 +115,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="BUTLERIAN_JIHAD"></a>BUTLERIAN JIHAD
 : see [Jihad, Butlerian](#JIHAD,_BUTLERIAN) (also Great Revolt).
 
+---<a id="C"></a>
+
 <a id="CAID"></a>CAID
 : Sardaukar officer rank given to a military official whose duties call mostly for dealings with civilians; a military governorship over a full planetary district; above the rank of Bashar but not equal to a Burseg.
 
@@ -171,6 +177,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="CRYSKNIFE"></a>CRYSKNIFE
 : the sacred knife of the Fremen on Arrakis. It is manufactured in two forms from teeth taken from dead sandworms. The two forms are “fixed” and “unfixed.” An unfixed knife requires proximity to a human body’s electrical “field to prevent disintegration. Fixed knives are treated for storage. All are about 20 centimeters long.
 
+---<a id="D"></a>
+
 <a id="DAR_AL-HIKMAN"></a>DAR AL-HIKMAN
 : school of religious translation or interpretation.
 
@@ -213,6 +221,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="DUST_CHASM"></a>DUST CHASM
 : any deep crevasse or depression on the desert of Arrakis that has been filled with dust not apparently different from the surrounding surface; a deadly trap because human or animal will sink in it and smother. (See [Tidal Dust Basin](#TIDAL_DUST_BASIN).)
 
+---<a id="E"></a>
+
 <a id="ECAZ"></a>ECAZ
 : fourth planet of Alpha Centauri B; the sculptors’ paradise, so called because it is the home of fogwood, the plant growth capable of being shaped in situ solely by the power of human thought.
 
@@ -227,6 +237,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="ERG"></a>ERG
 : an extensive dune area, a sea of sand.
+
+---<a id="F"></a>
 
 <a id="FAI"></a>FAI
 : the water tribute, chief specie of tax on Arrakis.
@@ -266,6 +278,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="FRIGATE"></a>FRIGATE
 : largest spaceship that can be grounded on a planet and taken off in one piece.
+
+---<a id="G"></a>
 
 <a id="GALACH"></a>GALACH
 : official language of the Imperium. Hybrid Inglo-Slavic with strong traces of cultural-specialization terms adopted during the long chain of human migrations.
@@ -324,6 +338,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="GUILD"></a>GUILD
 : the Spacing Guild, one leg of the political tripod maintaining the Great Convention. The Guild was the second mental-physical training school (see [Bene Gesserit](#BENE_GESSERIT)) after the Butlerian Jihad. The Guild monopoly on space travel and transport and upon international banking is taken as the beginning point of the Imperial Calendar.
 
+---<a id="H"></a>
+
 <a id="HAGAL"></a>HAGAL
 : the “Jewel Planet” (II Theta Shaowei), mined out in the time of Shaddam I.
 
@@ -375,6 +391,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="HUNTER-SEEKER"></a>HUNTER-SEEKER
 : a ravening sliver of suspensor-buoyed metal guided as a weapon by a near-by control console; common assassination device.
 
+---<a id="I"></a>
+
 <a id="IBAD,_EYES_OF"></a>IBAD, EYES OF
 : characteristic effect of a diet high in melange wherein the whites and pupils of the eyes turn a deep blue (indicative of deep melange addiction).
 
@@ -405,6 +423,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="IX"></a>IX
 : see [Richese](#RICHESE).
 
+---<a id="J"></a>
+
 <a id="JIHAD"></a>JIHAD
 : a religious crusade; fanatical crusade.
 
@@ -416,6 +436,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="JUDGE_OF_THE_CHANGE"></a>JUDGE OF THE CHANGE
 : an official appointed by the Landsraad High Council and the Emperor to monitor a change of fief, a kanly negotiation, or formal battle in a War of Assassins. The Judge’s arbitral authority may be challenged only before the High Council with the Emperor present.”
+
+---<a id="K"></a>
 
 <a id="KANLY"></a>KANLY
 : formal feud or vendetta under the rules of the Great Convention carried on according to the strictest limitations. (See [Judge of the Change](#JUDGE_OF_THE_CHANGE).) Originally the rules were designed to protect innocent bystanders.
@@ -447,6 +469,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="KWISATZ_HADERACH"></a>KWISATZ HADERACH
 : “Shortening of the Way.” This is the label applied by the Bene Gesserit to the unknown for which they sought a genetic solution: a male Bene Gesserit whose organic mental powers would bridge space and time.
 
+---<a id="L"></a>
+
 <a id="LA,_LA,_LA"></a>LA, LA, LA
 : Fremen cry of grief. (La translates as ultimate denial, a “no” from which you cannot appeal.)
 
@@ -467,6 +491,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="LITTLE_MAKER"></a>LITTLE MAKER
 : the half-plant-half-animal deep-sand vector of the Arrakis sandworm. The Little Maker’s excretions form the pre-spice mass.
+
+---<a id="M"></a>
 
 <a id="MAHDI"></a>MAHDI
 : in the Fremen messianic legend, “The One Who Will Lead Us to Paradise.”
@@ -528,6 +554,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="MU_ZEIN_WALLAH!"></a>MU ZEIN WALLAH!
 : Mu zein literally means “nothing good,” and wallah is a reflexive terminal exclamation. In this traditional opening for a Fremen curse against an enemy, Wallah turns the emphasis back upon the words Mu zein, producing the meaning: “Nothing good, “never good, good for nothing.”
 
+---<a id="N"></a>
+
 <a id="Na-"></a>Na-
 : a prefix meaning “nominated” or “next in line.” Thus: na-Baron means heir apparent to a barony.
 
@@ -539,6 +567,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="NOUKKERS"></a>NOUKKERS
 : officers of the Imperial bodyguard who are related to the Emperor by blood. Traditional rank for sons of royal concubines.
+
+---<a id="O"></a>
 
 <a id="OIL_LENS"></a>OIL LENS
 : hufuf oil held in static tension by an enclosing force field within a viewing tube as part of a magnifying or other light-manipulation system. Because each lens element can be adjusted individually one micron at a time, the oil lens is considered the ultimate in accuracy for manipulating visible light.
@@ -554,6 +584,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="OUT-FREYN"></a>OUT-FREYN
 : Galach for “immediately foreign,” that is: not of your immediate community, not of the select.
+
+---<a id="P"></a>
 
 <a id="PALM_LOCK"></a>PALM LOCK
 : any lock or seal which may be opened on contact with the palm of the human hand to which it has been keyed.
@@ -609,6 +641,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="PYRETIC_CONSCIENCE"></a>PYRETIC CONSCIENCE
 : so-called “conscience of fire”; that inhibitory level touched by Imperial conditioning. (See [Imperial conditioning](#IMPERIAL_CONDITIONING).)
 
+---<a id="Q"></a>
+
 <a id="QANAT"></a>QANAT
 : an open canal for carrying irrigation water under controlled conditions through a desert.
 
@@ -617,6 +651,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="QUIZARA_TAFWID"></a>QUIZARA TAFWID
 : Fremen priests (after Muad’Dib).
+
+---<a id="R"></a>
 
 <a id="RACHAG"></a>RACHAG
 : a caffeine-type stimulant from the yellow berries of akarso. (See [Akarso](#AKARSO).)
@@ -647,6 +683,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="RUH-SPIRIT"></a>RUH-SPIRIT
 : in Fremen belief, that part of the individual which is always rooted in (and capable of sensing) the metaphysical world. (See [Alam al-Mithal](#ALAM_AL-MITHAL).)
+
+---<a id="S"></a>
 
 <a id="SADUS"></a>SADUS
 : judges. The Fremen title refers to holy judges, equivalent to saints.
@@ -792,6 +830,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="SUSPENSOR"></a>SUSPENSOR
 : secondary (low-drain) phase of a Holtzman field generator. It nullifies gravity within certain limits prescribed by relative mass and energy consumption.
 
+---<a id="T"></a>
+
 <a id="TAHADDI_AL-BURHAN"></a>TAHADDI AL-BURHAN
 : an ultimate test from which there can be no appeal (usually because it brings death or destruction).
 
@@ -831,6 +871,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="TRUTHTRANCE"></a>TRUTHTRANCE
 : semihypnotic trance induced by one of several “awareness spectrum” narcotics in which the petit betrayals of deliberate falsehood are apparent to the truthtrance observer. (Note: “awareness spectrum” narcotics are frequently fatal except to desensitized individuals capable of transforming the poison-configuration within their own bodies.) TUPILE: so-called “sanctuary planet” (probably several planets) for defeated Houses of the Imperium. Location(s) known only to the Guild and maintained inviolate under the Guild Peace.
 
+---<a id="U"></a>
+
 <a id="ULEMA"></a>ULEMA
 : a Zensunni doctor of theology.
 
@@ -840,6 +882,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="USUL"></a>USUL
 : Fremen: “The base of the pillar.”
 
+---<a id="V"></a>
+
 <a id="VAROTA"></a>VAROTA
 : famed maker of balisets; a native of Chusuk.
 
@@ -848,6 +892,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="VOICE"></a>VOICE
 : that combined training originated by the Bene Gesserit which permits an adept to control others merely by selected tone shadings of the voice.
+
+---<a id="W"></a>
 
 <a id="WALI"></a>WALI
 : an untried Fremen youth.
@@ -888,6 +934,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 <a id="WINDTRAP"></a>WINDTRAP
 : a device placed in the path of a prevailing wind and capable of precipitating moisture from the air caught within it, usually by a sharp and distinct drop in temperature within the trap.
 
+---<a id="Y"></a>
+
 <a id="YA_HYA_CHOUHADA"></a>YA HYA CHOUHADA
 : “Long live the fighters!” The Fedaykin battle cry. Ya (now) in this cry is augmented by the hya form (the ever-extended now). Chouhada (fighters) carries this added meaning of fighters against injustice. There is a distinction in this word that specifies the fighters are not struggling for anything, but are consecrated against a specific thing—that alone.
 
@@ -896,6 +944,8 @@ IN STUDYING the Imperium, Arrakis, and the whole culture which produced Muad’D
 
 <a id="YA!_YA!_YAWM!"></a>YA! YA! YAWM!
 : Fremen chanting cadence used in time of deep ritual significance. Ya carries the root meaning of “Now pay attention!” The yawm form is a modified term calling for urgent immediacy. The chant is usually translated as “Now, hear this!”
+
+---<a id="Z"></a>
 
 <a id="ZENSUNNI"></a>ZENSUNNI
 : followers of a schismatic sect that broke away from the teachings of Maometh (the so-called “Third Muhammed”) about 1381 B.G. The Zensunni religion is noted chiefly for its emphasis on the mystical and a reversion to “the ways of the fathers.” Most scholars name Ali Ben Ohashi as leader of the original schism but there is some evidence that Ohashi may have been merely the male spokesman for his second wife, Nisai.
