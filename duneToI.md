@@ -178,7 +178,7 @@ Index: [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [
 : short-range version of lasgun used mostly as a cutting tool and surgeon’s scalpel.
 
 <a id="CRYSKNIFE"></a>CRYSKNIFE
-: the sacred knife of the Fremen on Arrakis. It is manufactured in two forms from teeth taken from dead sandworms. The two forms are “fixed” and “unfixed.” An unfixed knife requires proximity to a human body’s electrical “field to prevent disintegration. Fixed knives are treated for storage. All are about 20 centimeters long.
+: the sacred knife of the Fremen on Arrakis. It is manufactured in two forms from teeth taken from dead sandworms. The two forms are “fixed” and “unfixed.” An unfixed knife requires proximity to a human body’s electrical field to prevent disintegration. Fixed knives are treated for storage. All are about 20 centimeters long.
 
 ---
 <a id="D"></a>
@@ -253,7 +253,7 @@ Index: [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [
 : metal formed by the growing of jasmium crystals in duraluminum; noted for extreme tensile strength in relationship to weight. Name derives from its common use in collapsible structures that are opened by “fanning” them out.
 
 <a id="FAUFRELUCHES"></a>FAUFRELUCHES
-: the rigid rule of class distinction enforced by the Imperium. “A place for every man and every man in his place.
+: the rigid rule of class distinction enforced by the Imperium. “A place for every man and every man in his place."
 
 <a id="FEDAYKIN"></a>FEDAYKIN
 : Fremen death commandos; historically: a group formed and pledged to give their lives to right a wrong.
@@ -277,7 +277,7 @@ Index: [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [
 : idiomatic for smugglers.
 
 <a id="FREMEN"></a>FREMEN
-: the free tribes of Arrakis, dwellers in the desert, remnants of the Zensunni Wanderers. (“Sand Pirates” according to the Imperial ” Dictionary.)
+: the free tribes of Arrakis, dwellers in the desert, remnants of the Zensunni Wanderers. (“Sand Pirates” according to the Imperial Dictionary.)
 
 <a id="FREMKIT"></a>FREMKIT
 : desert survival kit of Fremen manufacture.
@@ -325,7 +325,7 @@ Index: [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [
 : a long geological ditch formed when the ground sinks because of movements in the underlying crustal layers.
 
 <a id="GREAT_CONVENTION"></a>GREAT CONVENTION
-: the universal truce enforced under the power balance maintained by the Guild, the Great Houses, and the Imperium. Its chief rule prohibits the use of atomic weapons against human targets. Each rule of the Great Convention begins: “The forms must be obeyed….
+: the universal truce enforced under the power balance maintained by the Guild, the Great Houses, and the Imperium. Its chief rule prohibits the use of atomic weapons against human targets. Each rule of the Great Convention begins: “The forms must be obeyed…".
 
 <a id="GREAT_MOTHER"></a>GREAT MOTHER
 : the horned goddess, the feminine principle of space (commonly: Mother Space), the feminine face of the male-female-neuter trinity accepted as Supreme Being by many religions within the Imperium.
@@ -391,7 +391,7 @@ Index: [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [
 : idiomatic for Ruling Clan of a planet or planetary system.
 
 <a id="HOUSES_MAJOR"></a>HOUSES MAJOR
-: holders of planetary fiefs; interplanetary entrepreneurs. (See [House](#HOUSE) above.)”
+: holders of planetary fiefs; interplanetary entrepreneurs. (See [House](#HOUSE) above.)
 
 <a id="HOUSES_MINOR"></a>HOUSES MINOR
 : planet-bound entrepreneur class (Galach: “Richece”).
@@ -445,7 +445,7 @@ Index: [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [
 : the all-purpose cloak (it can be set to reflect or admit radiant heat, converts to a hammock or shelter) commonly worn over a stillsuit on Arrakis.
 
 <a id="JUDGE_OF_THE_CHANGE"></a>JUDGE OF THE CHANGE
-: an official appointed by the Landsraad High Council and the Emperor to monitor a change of fief, a kanly negotiation, or formal battle in a War of Assassins. The Judge’s arbitral authority may be challenged only before the High Council with the Emperor present.”
+: an official appointed by the Landsraad High Council and the Emperor to monitor a change of fief, a kanly negotiation, or formal battle in a War of Assassins. The Judge’s arbitral authority may be challenged only before the High Council with the Emperor present.
 
 ---
 <a id="K"></a>
@@ -565,7 +565,7 @@ Index: [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [
 : poison in a drink. (See [Chaumurky](#CHAUMURKY).)
 
 <a id="MU_ZEIN_WALLAH!"></a>MU ZEIN WALLAH!
-: Mu zein literally means “nothing good,” and wallah is a reflexive terminal exclamation. In this traditional opening for a Fremen curse against an enemy, Wallah turns the emphasis back upon the words Mu zein, producing the meaning: “Nothing good, “never good, good for nothing.”
+: Mu zein literally means “nothing good,” and wallah is a reflexive terminal exclamation. In this traditional opening for a Fremen curse against an enemy, Wallah turns the emphasis back upon the words Mu zein, producing the meaning: “Nothing good, never good, good for nothing.”
 
 ---
 <a id="N"></a>
@@ -757,7 +757,7 @@ Index: [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [
 : the second narcotic derivative (by crystal extraction) from burned residue of elacca wood. The effect (described as timeless, sustained ecstasy) is elicited by certain atonal vibrations referred to as semuta music.
 
 <a id="SERVOK"></a>SERVOK
-: clock-set mechanism to perform simple tasks; one of the limited “automatic” devices permitted after the Butlerian Jihad.”
+: clock-set mechanism to perform simple tasks; one of the limited “automatic” devices permitted after the Butlerian Jihad.
 
 <a id="SHAH-NAMA"></a>SHAH-NAMA
 : the half-legendary First Book of the Zensunni Wanderers.
@@ -787,7 +787,7 @@ Index: [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [
 : Fremen: “Place of assembly in time of danger.” Because the Fremen lived so long in peril, the term came by general usage to designate any cave warren inhabited by one of their tribal communities.
 
 <a id="SIHAYA"></a>SIHAYA
-: Fremen: the desert springtime with religious overtones implying the time of fruitfulness and “the paradise to come.
+: Fremen: the desert springtime with religious overtones implying the time of fruitfulness and the paradise to come.
 
 <a id="SINK"></a>SINK
 : a habitable lowland area on Arrakis surrounded by high ground that protects it from the prevailing storms.
