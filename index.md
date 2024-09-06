@@ -17,26 +17,27 @@
 - **Civil Engineer** in Electro-mechanics & Computer Sciences at the [Polytechnic School of ULB](http://www.ulb.ac.be/facs/polytech/), ULB 1983
 - **Master in Environmental Management** at [IGEAT](http://igeat.ulb.ac.be/), ULB 2006
 
-
 ## Current job
 - Head of IT team & Node Manager at [Belgian Biodiverity Platform](http://www.biodiversity.be)
 - Nodes Committee Chair at [Global Biodiversity Information Facility](http://www.gbif.org)
 - Member of the [EOSC FAIR Working Group](https://www.eoscsecretariat.eu/working-groups/fair-working-group)
 
 ## Platform projects
+- [GBIF.be Hosted Portal](http://gbif.biodiversity.be/)
+- [Belgian Data Portal](http://data.biodiversity.be/)
+- [Afromoths.net](http://www.afromoths.net/)
+- [Gracillariidae.net](https://www.gracillariidae.net/)
 - Taxonomical Backbone for Wallonia(BTW): [database](https://git.bebif.be/bbpf/btw) and [webapp](https://git.bebif.be/bbpf/btw_webapp)
 - [TrIAS](https://osf.io/7dpgr/)
-- [Belgian Data Portal](http://data.biodiversity.be/)
-- [Bio-GR](http://www.bio-gr.eu/)
 - [Saproxylic Beetles](http://projects.biodiversity.be/beetles)
 - [Formicidae Atlas](http://www.formicidae-atlas.be/)
-- [Afromoths](http://www.afromoths.net/)
 - [BiodivERsA CRIS](http://www.biodiversa.org/database/)
 
 ## GBIF Capacity Enhancement projects
-- 2015 [Internalization of the ALA node portal](https://www.gbif.org/project/82202/internationalization-of-the-ala-node-portal)
-- 2016 [Strengthening GBIF Philippines](https://www.gbif.org/project/82652/strengthening-gbif-philippines)
-- 2017 [European Bireme: EU Nodes in biodiversity reporting mechanisms](https://www.gbif.org/project/83336/european-bireme-eu-nodes-in-biodiversity-reporting-mechanisms)
+- 2016 [Internalization of the ALA node portal](https://www.gbif.org/project/82202/internationalization-of-the-ala-node-portal)
+- 2017 [Strengthening GBIF Philippines](https://www.gbif.org/project/82652/strengthening-gbif-philippines)
+- 2018 [European Bireme: EU Nodes in biodiversity reporting mechanisms](https://www.gbif.org/project/83336/european-bireme-eu-nodes-in-biodiversity-reporting-mechanisms)
+- 2024 [CroMent](https://www.gbif.org/project/CESP2023-006)
 
 ## Personal (and other funny) projects
 - [Terminology of the Imperium](./duneToI.md) (2021), small markdown tribute to [**Frank Herbert's Dune**](https://en.wikipedia.org/wiki/Dune_%28novel%29).
