@@ -2,27 +2,30 @@
 ![me](images/andrejjh.png)
 >Hi there!
 
->With 35+ years experience in Software Development (mostly Database, OpenData, GIS and web apps), I 've seen a wide variety of technologies, programming languages and paradigm changes.
+>With 40+ years of experience in Software Development (mostly Database, OpenData, GIS and web apps), I 've seen a wide variety of technologies, programming languages and paradigm changes.
 
 >My current job is IT Software Engineer at Belgian Biodiversity Platform and Belgian GBIF Node manager.
 
 >Before that, I've been working in *Banking systems*(CIG-Intersys), *Digital TV*(Sony Electronics) and *e-Learning platform*(Université Libre de Bruxelles).
 
->Last but certainly not least, I'm the proud father of four children and very recently grandfather.
+>Last but certainly not least, I'm the proud father of four children and grandfather of two.
 
 >André Heughebaert
 
+last edited: 6 sep 2024
+
 ---
+
 ## Educational background
 - **Civil Engineer** in Electro-mechanics & Computer Sciences at the [Polytechnic School of ULB](http://www.ulb.ac.be/facs/polytech/), ULB 1983
 - **Master in Environmental Management** at [IGEAT](http://igeat.ulb.ac.be/), ULB 2006
 
 ## Current job
-- Head of IT team & Node Manager at [Belgian Biodiverity Platform](http://www.biodiversity.be)
-- Nodes Committee Chair at [Global Biodiversity Information Facility](http://www.gbif.org)
-- Member of the [EOSC FAIR Working Group](https://www.eoscsecretariat.eu/working-groups/fair-working-group)
+- Head of IT team & Node Manager at [Belgian Biodiverity Platform](http://www.biodiversity.be) 2005-present
+- Nodes Committee Chair at [Global Biodiversity Information Facility](http://www.gbif.org) 2017-2022
+- Member of the [EOSC FAIR Working Group](https://www.eoscsecretariat.eu/working-groups/fair-working-group) 2020-2023
 
-## Platform projects
+## Platform related projects
 - [GBIF.be Hosted Portal](http://gbif.biodiversity.be/)
 - [Belgian Data Portal](http://data.biodiversity.be/)
 - [Afromoths.net](http://www.afromoths.net/)
@@ -78,7 +81,8 @@
 - GIS: [QGIS](http://www.qgis.org/) and [Leaflet](https://leafletjs.com/)
 - Presentation: [Reveal.js](http://lab.hakim.se/reveal-js)
 - Spreadsheet: [LibreOffice](https://www.libreoffice.org/)
-- Text Editor: [Atom](https://atom.io/)
+- Text Editor: [Zed](https://zed.dev/)
+- Note Taking: [Obsidian](https://obsidian.md/)
 - Version Control: [Git](https://git-scm.com/)
 - Browser: [Brave](https://brave.com/)
 
@@ -88,5 +92,4 @@
 - professional: <a.heughebaert@biodiversity.be>
 - private: <andrejjh@gmail.com>
 - Skype: andrejjh
-- Twitter: [Andre_jjH](https://twitter.com/Andre_jjH)
 - Facebook, Instagram, Messenger, WhatsApp: over my dead body!
