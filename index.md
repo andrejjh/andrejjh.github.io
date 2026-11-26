@@ -4,15 +4,15 @@
 
 >With 40+ years of experience in Software Development (mostly Database, OpenData, GIS and web apps), I 've seen a wide variety of technologies, programming languages and paradigm changes.
 
->My last job is IT Software Engineer at Belgian Biodiversity Platform and Belgian GBIF Node manager.
-
+>I'm now retired in the south of France. My last job was IT Software Engineer at the *Belgian Biodiversity Platform*(Belspo) and Belgian GBIF Node manager. 
+>
 >Before that, I've been working in *Banking systems*(CIG-Intersys), *Digital TV*(Sony Electronics) and *e-Learning platform*(Université Libre de Bruxelles).
 
 >Last but certainly not least, I'm the proud father of four children and grandfather of two.
 
 >André Heughebaert
 
-last edited: 6 sep 2024
+last edited: 26 nov 2026
 
 ---
 
