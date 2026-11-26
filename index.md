@@ -4,7 +4,7 @@
 
 >With 40+ years of experience in Software Development (mostly Database, OpenData, GIS and web apps), I 've seen a wide variety of technologies, programming languages and paradigm changes.
 
->My current job is IT Software Engineer at Belgian Biodiversity Platform and Belgian GBIF Node manager.
+>My last job is IT Software Engineer at Belgian Biodiversity Platform and Belgian GBIF Node manager.
 
 >Before that, I've been working in *Banking systems*(CIG-Intersys), *Digital TV*(Sony Electronics) and *e-Learning platform*(Université Libre de Bruxelles).
 
@@ -20,7 +20,7 @@ last edited: 6 sep 2024
 - **Civil Engineer** in Electro-mechanics & Computer Sciences at the [Polytechnic School of ULB](http://www.ulb.ac.be/facs/polytech/), ULB 1983
 - **Master in Environmental Management** at [IGEAT](http://igeat.ulb.ac.be/), ULB 2006
 
-## Current job
+## Last job
 - Head of IT team & Node Manager at [Belgian Biodiverity Platform](http://www.biodiversity.be) 2005-present
 - Nodes Committee Chair at [Global Biodiversity Information Facility](http://www.gbif.org) 2017-2022
 - Member of the [EOSC FAIR Working Group](https://www.eoscsecretariat.eu/working-groups/fair-working-group) 2020-2023
