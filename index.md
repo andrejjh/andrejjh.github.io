@@ -2,17 +2,17 @@
 ![me](images/andrejjh.png)
 >Hi there!
 
->With 40+ years of experience in Software Development (mostly Database, OpenData, GIS and web apps), I 've seen a wide variety of technologies, programming languages and paradigm changes.
+>With 40+ years of experience in Software Development (mostly Database, OpenData, GIS and web apps), I 've seen a wide variety of technologies, programming languages and paradigm changes. Today I'm retired and live in the south of France.
 
->I'm now retired in the south of France. My last job was IT Software Engineer at the *Belgian Biodiversity Platform*(Belspo) and Belgian GBIF Node manager. 
->
+>My last current job is IT Software Engineer at Belgian Biodiversity Platform and Belgian GBIF Node manager.
+
 >Before that, I've been working in *Banking systems*(CIG-Intersys), *Digital TV*(Sony Electronics) and *e-Learning platform*(Université Libre de Bruxelles).
 
 >Last but certainly not least, I'm the proud father of four children and grandfather of two.
 
 >André Heughebaert
 
-last edited: 26 nov 2026
+last edited: 26 nov 2024
 
 ---
 
@@ -20,12 +20,12 @@ last edited: 26 nov 2026
 - **Civil Engineer** in Electro-mechanics & Computer Sciences at the [Polytechnic School of ULB](http://www.ulb.ac.be/facs/polytech/), ULB 1983
 - **Master in Environmental Management** at [IGEAT](http://igeat.ulb.ac.be/), ULB 2006
 
-## Last job
-- Head of IT team & Node Manager at [Belgian Biodiverity Platform](http://www.biodiversity.be) 2005-present
+##  Previous jobs
+- Head of IT team & Node Manager at [Belgian Biodiverity Platform](http://www.biodiversity.be) 2005-2025
 - Nodes Committee Chair at [Global Biodiversity Information Facility](http://www.gbif.org) 2017-2022
-- Member of the [EOSC FAIR Working Group](https://www.eoscsecretariat.eu/working-groups/fair-working-group) 2020-2023
+- Governing Board 2nd Vice Chair 2024-2026 at GBIF
 
-## Platform related projects
+## Selected projects
 - [GBIF.be Hosted Portal](http://gbif.biodiversity.be/)
 - [Belgian Data Portal](http://data.biodiversity.be/)
 - [Afromoths.net](http://www.afromoths.net/)
@@ -73,6 +73,7 @@ last edited: 26 nov 2026
 - [SpeakerDeck](https://speakerdeck.com/andrejjh)
 
 ## Daily tools
+- Linux and MacOS
 - Data Publication: [IPT](http://www.gbif.org/ipt), [DarwinCore](http://rs.tdwg.org/dwc/) and [BioCASe](https://www.biocase.org/)
 - Relational Database: [PostgreSQL](https://www.postgresql.org), [SQLite](https://www.sqlite.org/)
 - Data Cleaning: [Open Refine](http://openrefine.org/), [Frictionless Data](https://frictionlessdata.io/)
@@ -84,12 +85,11 @@ last edited: 26 nov 2026
 - Text Editor: [Zed](https://zed.dev/)
 - Note Taking: [Obsidian](https://obsidian.md/)
 - Version Control: [Git](https://git-scm.com/)
-- Browser: [Brave](https://brave.com/)
+- Browser: [Firefox](https://firefox.com/)
 
 ---
 
 ## How to contact me?
 - professional: <a.heughebaert@biodiversity.be>
 - private: <andrejjh@gmail.com>
-- Skype: andrejjh
-- Facebook, Instagram, Messenger, WhatsApp: over my dead body!
+- Facebook, Instagram, Messenger : over my dead body!
